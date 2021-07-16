@@ -1,0 +1,11 @@
+{
+    "name": "dmitry/project",
+    "description": "my project",
+    "authors": [
+        {
+            "name": "amari-foros",
+            "email": "amari-foros@yandex.ru"
+        }
+    ],
+    "require": {}
+}
