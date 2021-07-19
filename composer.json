@@ -15,7 +15,7 @@
     },
     "autoload": {
         "files": [
-            "src/index.php"
+            "src/Runner.php"
         ]
     }
 }

@@ -1,5 +1,5 @@
 <?php
-namespace Hexlet\Php\Runner;
+namespace Hexlet\Php\Src\Runner;
 function run()
 {
     $collection = collect(['taylor', 'abigail', null])->map(function ($name) {
